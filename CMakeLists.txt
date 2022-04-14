@@ -36,3 +36,6 @@ ADD_EXECUTABLE(013_async_start_global_function sources/013_async_start_global_fu
 ADD_EXECUTABLE(014_async_start_member_function sources/014_async_start_member_function.cpp)
 ADD_EXECUTABLE(015_async_start_function_object sources/015_async_start_function_object.cpp)
 ADD_EXECUTABLE(016_async_start_lambda_expression sources/016_async_start_lambda_expression.cpp)
+
+# 异常处理
+ADD_EXECUTABLE(018_async_exception sources/018_async_exception.cpp)
