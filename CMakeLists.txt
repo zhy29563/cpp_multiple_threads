@@ -43,4 +43,4 @@ ADD_EXECUTABLE(018_async_exception sources/018_async_exception.cpp)
 # 启动策略
 ADD_EXECUTABLE(020_async_launch_async sources/020_async_launch_async.cpp)
 ADD_EXECUTABLE(021_async_launch_deferred sources/021_async_launch_deferred.cpp)
-ADD_EXECUTABLE(022_async_launch sources/022_async_launch.cpp)
+ADD_EXECUTABLE(022_async_launch_default sources/022_async_launch_default.cpp)
